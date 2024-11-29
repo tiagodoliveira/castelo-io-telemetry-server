@@ -1,4 +1,4 @@
-package io.castelo.main_server;
+package io.castelo.telemetry_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

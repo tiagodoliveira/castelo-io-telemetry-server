@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'io.castelo.main-server' is invalid and this project uses 'io.castelo.main_server' instead.
+* The original package name 'io.castelo.main-server' is invalid and this project uses 'io.castelo.telemetry_server' instead.
 
 # Getting Started
 

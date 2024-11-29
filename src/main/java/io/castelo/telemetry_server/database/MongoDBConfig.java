@@ -1,4 +1,4 @@
-package io.castelo.main_server.database;
+package io.castelo.telemetry_server.database;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;

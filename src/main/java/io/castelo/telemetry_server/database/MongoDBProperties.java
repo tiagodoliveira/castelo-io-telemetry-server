@@ -1,4 +1,4 @@
-package io.castelo.main_server.database;
+package io.castelo.telemetry_server.database;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Value;

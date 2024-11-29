@@ -1,6 +1,6 @@
-package io.castelo.main_server.end_device_data;
+package io.castelo.telemetry_server.end_device_data;
 
-import io.castelo.main_server.end_device_component_data.*;
+import io.castelo.telemetry_server.end_device_component_data.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

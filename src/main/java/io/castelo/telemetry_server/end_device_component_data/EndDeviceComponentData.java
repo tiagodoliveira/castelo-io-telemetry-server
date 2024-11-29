@@ -1,4 +1,4 @@
-package io.castelo.main_server.end_device_component_data;
+package io.castelo.telemetry_server.end_device_component_data;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

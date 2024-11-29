@@ -1,4 +1,4 @@
-package io.castelo.main_server.utils;
+package io.castelo.telemetry_server.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

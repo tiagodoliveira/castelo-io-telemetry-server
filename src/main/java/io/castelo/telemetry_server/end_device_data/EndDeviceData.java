@@ -1,7 +1,7 @@
-package io.castelo.main_server.end_device_data;
+package io.castelo.telemetry_server.end_device_data;
 
-import io.castelo.main_server.end_device_component_data.EndDeviceComponent;
-import io.castelo.main_server.utils.MACAddressValidator;
+import io.castelo.telemetry_server.end_device_component_data.EndDeviceComponent;
+import io.castelo.telemetry_server.utils.MACAddressValidator;
 
 import java.util.List;
 

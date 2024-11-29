@@ -1,4 +1,4 @@
-package io.castelo.main_server.end_device_data;
+package io.castelo.telemetry_server.end_device_data;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
