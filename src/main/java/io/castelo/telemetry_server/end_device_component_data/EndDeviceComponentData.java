@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 
 import java.time.LocalDateTime;
 
-@Document(collection = "#{T(io.castelo.main_server.database.MongoDBConfig).getComponentDataCollection()}")
+@Document(collection = "#{T(io.castelo.telemetry_server.database.MongoDBConfig).getComponentDataCollection()}")
 public record EndDeviceComponentData(
         @Id String id,
         @Field("metaField") ComponentMetaField metaField,
